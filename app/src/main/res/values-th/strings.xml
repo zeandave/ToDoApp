@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">เป้าหมาย</string>
+    <string name="add">เพิ่ม\n</string>
+    <string name="add_todo_list">เพิ่มเป้าหมาย</string>
+</resources>
